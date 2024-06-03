@@ -41,9 +41,8 @@ Welcome to the **Health Care Server** project! This repository contains the serv
 
 7. **prisma**
 
-   ```
+   ```bash
    npx prisma migrate dev
-
    ```
 
 ## **Contributing Guidelines**
